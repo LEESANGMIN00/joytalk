@@ -8,3 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 "# joytalk" 
 # joytalk
+
+npm i
+터미널 하나 더 오픈하고 node server/chat.js
+npm run dev 
